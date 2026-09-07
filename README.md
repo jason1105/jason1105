@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[OpenShot 4.0: Record, Edit, and Color Like Never Before](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 35 周）
+**[Keep Our Servers Running](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 36 周）
 
-> 开源视频编辑器 OpenShot 发布 4.0，新增录制、剪辑与调色功能，界面与性能大幅提升。对内容创作者和需要可定制视频管线的开发者而言，提供了更强大的本地处理方案，值得升级体验。
+> 互联网档案馆发起九月紧急募捐，个人捐赠将获得三倍匹配。Archive.org是开发者依赖的历史代码备份、网页快照和公共资源库，其持续运营关乎全球数字遗产与开源生态的长期可访问性。这条消息提醒社区关注基础设施维护成本，并采取实际行动支持。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-09-07 11:13 UTC</b>
+    ⏰ Last updated: <b>2026-09-07 16:58 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
