@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[Keep Our Servers Running](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 36 周）
+**[How to Write an Effective Software Design Document](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 37 周）
 
-> 互联网档案馆发起九月紧急募捐，个人捐赠将获得三倍匹配。Archive.org是开发者依赖的历史代码备份、网页快照和公共资源库，其持续运营关乎全球数字遗产与开源生态的长期可访问性。这条消息提醒社区关注基础设施维护成本，并采取实际行动支持。
+> 系统讲解如何写出可执行的设计文档：从问题陈述、目标与非目标、方案取舍到评审迭代，强调文档服务于决策而非形式。对需要推动跨团队协作的开发者，能显著减少返工与沟通成本。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-09-14 11:23 UTC</b>
+    ⏰ Last updated: <b>2026-09-14 17:21 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
