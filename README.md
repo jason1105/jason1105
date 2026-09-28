@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[How to Write an Effective Software Design Document](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 37 周）
+**[When did Google get so weird?](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 39 周）
 
-> 系统讲解如何写出可执行的设计文档：从问题陈述、目标与非目标、方案取舍到评审迭代，强调文档服务于决策而非形式。对需要推动跨团队协作的开发者，能显著减少返工与沟通成本。
+> 谷歌近年搜索、产品与 AI 策略让不少开发者感到陌生。文章回顾其行为变化，讨论平台封闭、搜索结果质量与产品重心转移。对依赖 Google 搜索、云服务和广告生态的开发者，理解这些变化有助于评估平台依赖与迁移风险。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-09-28 12:32 UTC</b>
+    ⏰ Last updated: <b>2026-09-28 22:49 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
