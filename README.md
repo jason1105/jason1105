@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[When did Google get so weird?](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 39 周）
+**[Web Search API](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 40 周）
 
-> 谷歌近年搜索、产品与 AI 策略让不少开发者感到陌生。文章回顾其行为变化，讨论平台封闭、搜索结果质量与产品重心转移。对依赖 Google 搜索、云服务和广告生态的开发者，理解这些变化有助于评估平台依赖与迁移风险。
+> Cloudflare 推出 Web Search API，为 Workers 与 AI 代理提供可编程网页搜索，简化 RAG 和实时信息获取。开发者无需自建爬虫与索引，即可构建搜索增强应用，但需评估定价、延迟、区域覆盖和隐私合规。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-10-05 13:12 UTC</b>
+    ⏰ Last updated: <b>2026-10-05 23:32 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
