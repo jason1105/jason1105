@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[Web Search API](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 40 周）
+**[The gap in shared understanding of LLM capability is widening](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 41 周）
 
-> Cloudflare 推出 Web Search API，为 Workers 与 AI 代理提供可编程网页搜索，简化 RAG 和实时信息获取。开发者无需自建爬虫与索引，即可构建搜索增强应用，但需评估定价、延迟、区域覆盖和隐私合规。
+> Karpathy 指出业界对大模型能力的共同理解正在分裂：有人看到通用智能，有人只看到昂贵自动补全。开发者应建立自己的任务评测，关注真实成功率、成本与失败模式，避免被演示和炒作误导。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-10-12 14:03 UTC</b>
+    ⏰ Last updated: <b>2026-10-13 00:00 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
