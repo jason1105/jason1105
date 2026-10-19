@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[The gap in shared understanding of LLM capability is widening](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 41 周）
+**[Someone behind the software](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 42 周）
 
-> Karpathy 指出业界对大模型能力的共同理解正在分裂：有人看到通用智能，有人只看到昂贵自动补全。开发者应建立自己的任务评测，关注真实成功率、成本与失败模式，避免被演示和炒作误导。
+> 这篇随笔提醒开发者，软件背后始终有具体的人：维护者的疲惫、动机与社区关系会直接影响开源项目质量。关注人的因素，有助于团队建立更可持续的协作与维护机制。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-10-19 11:44 UTC</b>
+    ⏰ Last updated: <b>2026-10-19 18:05 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
