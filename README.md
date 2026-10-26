@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[Someone behind the software](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 42 周）
+**[Anthropic S-1](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 43 周）
 
-> 这篇随笔提醒开发者，软件背后始终有具体的人：维护者的疲惫、动机与社区关系会直接影响开源项目质量。关注人的因素，有助于团队建立更可持续的协作与维护机制。
+> Anthropic 提交 S-1 文件，意味着其上市进程进入公开披露阶段。文件中的财务、风险与治理信息，能帮助开发者观察头部 AI 公司的商业化路径、算力成本与合规压力。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-10-26 12:00 UTC</b>
+    ⏰ Last updated: <b>2026-10-26 22:08 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
