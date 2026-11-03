@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[Anthropic S-1](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 43 周）
+**[WTF Ubuntu?](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 44 周）
 
-> Anthropic 提交 S-1 文件，意味着其上市进程进入公开披露阶段。文件中的财务、风险与治理信息，能帮助开发者观察头部 AI 公司的商业化路径、算力成本与合规压力。
+> 高热度讨论聚焦Ubuntu近期引发争议的决策与体验问题，反映开发者对主流Linux发行版稳定性、透明度和取向的担忧。对依赖Ubuntu的团队，这是评估升级风险、迁移成本与供应链多样性的信号。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-11-02 14:24 UTC</b>
+    ⏰ Last updated: <b>2026-11-03 00:15 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
