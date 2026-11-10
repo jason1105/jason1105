@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[WTF Ubuntu?](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 44 周）
+**[Claude Fable 5.2 and Mythos 5.2](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 45 周）
 
-> 高热度讨论聚焦Ubuntu近期引发争议的决策与体验问题，反映开发者对主流Linux发行版稳定性、透明度和取向的担忧。对依赖Ubuntu的团队，这是评估升级风险、迁移成本与供应链多样性的信号。
+> Anthropic 发布新版 Claude 模型，强调推理与创作能力升级。对开发者而言，API、工具调用和长上下文表现可能直接影响编码助手、Agent 与内容生成应用，值得尽快评测迁移成本与收益。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-11-09 14:50 UTC</b>
+    ⏰ Last updated: <b>2026-11-10 01:01 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
