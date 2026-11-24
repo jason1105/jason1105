@@ -116,9 +116,9 @@
 
 <!-- Digest headline auto-fetched from jason1105.github.io/ai-weekly-digest -->
 
-**[Qwen4-Max](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 46 周）
+**[Nvidia Reinstates Jensen Huang as CEO](https://jason1105.github.io/ai-weekly-digest/)**（2026 第 47 周）
 
-> Qwen4-Max 发布，代表国产大模型在能力与生态上的又一次跃迁。值得关注其基准表现、API 兼容性和开源策略；开发者可评估推理成本、多模态与 Agent 场景替换现有模型。
+> 英伟达重新任命黄仁勋为CEO，反映AI算力竞争进入关键阶段。高管变动可能影响GPU路线、CUDA生态与供应链策略；开发者需关注后续产品节奏、定价及AI基础设施投资方向。
 
 ---
 
@@ -136,7 +136,7 @@
   <sub>
     🤖 Auto-updated every 6 hours by <a href=".github/workflows/update-readme.yml">GitHub Actions</a>
     &nbsp;·&nbsp;
-    ⏰ Last updated: <b>2026-11-23 16:59 UTC</b>
+    ⏰ Last updated: <b>2026-11-24 03:40 UTC</b>
     &nbsp;·&nbsp;
     ⭐ Total stars: <b>14</b>
   </sub>
